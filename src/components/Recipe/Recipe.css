@@ -1,0 +1,11 @@
+.recipe {
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    width: 500px;
+    padding: 10px;
+}
+
+.recipe img {
+    width: 400px;
+    height: 500;
+}
